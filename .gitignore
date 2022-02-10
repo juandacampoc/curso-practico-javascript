@@ -103,6 +103,5 @@ dist
 # TernJS port file
 .tern-port
 # CONFIGURACION DE VISUAL ESTUDIO CODE
-.vscode
-
 #ESTA ES UNA PRUEBA
+.vscode
